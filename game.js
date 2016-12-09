@@ -1,5 +1,6 @@
-var React = require( 'react' );
-var ReactDOM = require( 'react-dom' );
+//Libraries
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 function Square(props) {
     return (

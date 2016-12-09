@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './game.jsx',
+  entry: './game.js',
   output: {
     // path: 'build', output and save bundle.js inside directory named build
     filename: 'bundle.js' //convention
