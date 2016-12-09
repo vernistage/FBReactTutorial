@@ -1,3 +1,6 @@
+var React = require( 'react' );
+var ReactDOM = require( 'react-dom' );
+
 function Square(props) {
     return (
       <button className="square" onClick={() => props.onClick()}>
